@@ -16,4 +16,9 @@
     font-size: 1.3em;
     color: #9E9E9E;
   }
+
+  .item {
+    width: 25px;
+    height: 25px;
+  }
 }
