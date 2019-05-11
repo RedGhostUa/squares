@@ -24,4 +24,12 @@
     grid-column-start: 1;
     grid-column-end: 9;
   }
+
+  .check__input:checked~.item:hover {
+    transform: scale(1.4);
+  }
+
+  .item:hover {
+    transform: scale(1.4);
+  }
 }
