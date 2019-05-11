@@ -4,8 +4,8 @@
   }
 
   .check__input:checked~.item {
-    width: 45px;
-    height: 45px;
+    width: 40px;
+    height: 40px;
     margin: -7px;
   }
 
@@ -16,8 +16,8 @@
   }
 
   .item {
-    width: 40px;
-    height: 40px;
+    width: 35px;
+    height: 35px;
   }
 
   .check__label{
