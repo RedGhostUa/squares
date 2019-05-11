@@ -22,6 +22,7 @@ body {
 }
 
 .font {
+  text-align:  center;
   font-weight: bold;
   font-size: 2em;
   color: #9E9E9E;
@@ -32,7 +33,7 @@ body {
 }
 
 .check__label{
-  grid-column-start: 4;
+  grid-column-start: 1;
   grid-column-end: 13;
 }
 
