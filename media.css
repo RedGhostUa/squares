@@ -32,4 +32,8 @@
   .item:hover {
     transform: scale(1.4);
   }
+
+  .check__input:checked ~ .font{
+    font-size: 1.5em;
+  }
 }
